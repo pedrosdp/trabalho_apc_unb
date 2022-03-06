@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1573664764 source:c:\users\pedro\onedrive\desktop\nova pasta\menu\main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1575046177 source:c:\users\pedro\onedrive\desktop\trabalho apc\menu\main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
